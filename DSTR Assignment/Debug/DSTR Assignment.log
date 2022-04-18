@@ -1,0 +1,6 @@
+﻿  Assignment.cpp
+C:\Users\chinp\source\repos\DSTR Assignment\DSTR Assignment\Assignment.cpp(279,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\chinp\source\repos\DSTR Assignment\DSTR Assignment\Assignment.cpp(297,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\chinp\source\repos\DSTR Assignment\DSTR Assignment\Assignment.cpp(2314,8): warning C4102: 'start': unreferenced label
+C:\Users\chinp\source\repos\DSTR Assignment\DSTR Assignment\Assignment.cpp(2376,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DSTR Assignment.vcxproj -> C:\Users\chinp\source\repos\DSTR Assignment\Debug\DSTR Assignment.exe
